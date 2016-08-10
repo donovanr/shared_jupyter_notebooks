@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.DS_Store
+\#*#
+.#*
+.coverage
+*.swp
+
